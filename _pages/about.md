@@ -8,36 +8,40 @@ redirect_from:
   - /about.html
 ---
 
-I am a first Master student from the [Deparment of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/), Tsinghua University. I am supervised by [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/).
+I am a first-year PhD student from the [Deparment of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/), Tsinghua University. I am supervised by [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/).
 
-My research interest currently includes Graph Neural Network, Knowledge Graph, and Concept Modeling.
+My research interest currently includes Pre-training Language Model, Biomedical Text Processing and Cross Modal Learning.
 
 
 ## Publications
 ### 2020
-* **Shengding Hu**, Zheng Xiong, Meng Qu, Xingdi Yuan,Marc-Alexandre Cˆot ́e, Zhiyuan Liu, and Jian Tang.2020.[Graph  Policy  Network  for  Transferable  Active Learning on Graphs](https://proceedings.neurips.cc/paper/2020/hash/73740ea85c4ec25f00f9acbd859f861d-Abstract.html).  *InProceedings of NeurIPS2020* [[code]](https://github.com/ShengdingHu/GraphPolicyNetworkActiveLearning)
 
+* He Huang, **Zheni Zeng**, Yifan Shangguan, Danya Yao and Jiangling Du. 2020. [A Framework for Driving Intention Estimation in Real-World Scenarios](https://ascelibrary.org/doi/abs/10.1061/9780784482933.374). *CICTP 2020*
+
+* Yanru Huang, Feiyu Zhu, **Zheni Zeng**, Xi Qiu, Yuan Shen and Jianan Wu. 2020. [SQE: a Self Quality Evaluation Metric for Parameters Optimization in Multi-Object Tracking](https://openaccess.thecvf.com/content_CVPR_2020/html/Huang_SQE_a_Self_Quality_Evaluation_Metric_for_Parameters_Optimization_in_CVPR_2020_paper.html). *CVPR 2020*
 
 ## Preprints
 \* indicates equal contribution.
 
-* Jie Zhou\*, Ganqu Cui\*, **Shengding Hu**, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Changcheng Li, Maosong Sun. [Graph Neural Networks: A Review of Methods and Applications.](https://arxiv.org/abs/1812.08434) *Arxiv 2018.*
+* **Zheni Zeng**\*, Chaojun Xiao\*, Yuan Yao, Ruobing Xie, Zhiyuan Liu, Fen Lin, Leyu Lin and Maosong Sun. 2020.[Knowledge Transfer via Pre-training for Recommendation: A Review and Prospect](https://arxiv.org/abs/2009.09226).  *Arxiv 2020*
 
 ## Social Service
 
-- Reviewer: WWW 2020 
+- Reviewer: Neuralcomputing
 - TA: 
-  - Object Oriented Programming, 2021.
-  - Natural Language Processing, 2020.
+  - Natural Language Processing, 2021.
+  - Writing and Communication - Artificial Intelligence, 2020.
 
 ## Awards
 
-### Master
+### PhD
 
 ### Bachelor
-- Academic Excellence Award in 2016-2017 , 2017-2018, 2018-2019.
-- Good reading scholarship in 2018-2019 year.
-- Zhuzhou Scholarship in 2017-2018 year
+- Outstanding graduates of Beijing. 2020.
+- Outstanding graduates of Tsinghua. 2020.
+- Excellent member of C.Y.L China in Tsinghua. 2019.
+- Person of the year in Department of Automation, Tsinghua. 2018.
+- Excellent student leader of Tsinghua. 2017
+- National Scholarship in 2017.
+- Comprehensive Excellence Award in 2016-2017 , 2017-2018, 2018-2019.
 
-### Earlier
-- Silver Medal in the 32nd National Middle School Physics Competition

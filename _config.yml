@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shengding Hu / 胡声鼎"
+title                    : "Zheni Zeng / 曾哲妮"
 title_separator          : "-"
-name                     : &name "Shengding"
-description              : &description "Master student @ Tsinghua University"
-url                      : "https://shengdinghu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Zheni"
+description              : &description "PhD student @ Tsinghua University"
+url                      : "https://zhenizeng.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "shengdinghu/shengdinghu.github.io"
+repository               : "Ellenzzn/zhenizeng.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shengding Hu"
-  avatar           : "photo.jpeg"
-  bio              : "Master@THU"
+  name             : "Zheni Zeng"
+  avatar           : "photo_zzn.jpeg"
+  bio              : "PhD@THU"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=ZfehPhAAAAAJ&hl=en&oi=ao"
+  googlescholar    : #"https://scholar.google.com/citations?user=ZfehPhAAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "shengdinghu"
+  github           : "Ellenzzn"
   google_plus      :
   keybase          :
   instagram        :
