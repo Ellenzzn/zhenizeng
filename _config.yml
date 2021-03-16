@@ -11,10 +11,10 @@ title                    : "Zheni Zeng / 曾哲妮"
 title_separator          : "-"
 name                     : &name "Zheni"
 description              : &description "PhD student @ Tsinghua University"
-url                      : "https://Ellenzzn.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+#url                      : "https://Ellenzzn.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Ellenzzn/zhenizeng.github.io"
-teaser                   : "photo_zzn.jpeg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "images/photo_zzn.jpeg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zheni Zeng"
-  avatar           : "photo_zzn.jpeg"
+  avatar           : "images/photo_zzn.jpeg"
   bio              : "PhD@THU"
   location         : "Beijing, China"
   employer         :
