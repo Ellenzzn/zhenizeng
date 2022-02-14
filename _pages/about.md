@@ -8,14 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student from the [Deparment of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/), Tsinghua University. I am supervised by [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/).
+I am a second-year PhD student from the [Deparment of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/), Tsinghua University. I am supervised by [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/).
 
 My research interest currently includes Pre-training Language Model, Biomedical Text Processing and Cross Modal Learning.
 
 
 ## Publications
+### 2022
+* **Zheni Zeng**\*, Yuan Yao\*, Zhiyuan Liu and Maosong Sun. 2022. [A deep-learning system bridging molecule structure and biomedical text with comprehension comparable to human professionals](https://www.nature.com/articles/s41467-022-28494-3). *Nature Communications*
+
 ### 2021
-* **Zheni Zeng**\*, Chaojun Xiao\*, Yuan Yao, Ruobing Xie, Zhiyuan Liu, Fen Lin, Leyu Lin and Maosong Sun. 2021.[Knowledge Transfer via Pre-training for Recommendation: A Review and Prospect](https://doi.org/10.3389/fdata.2021.602071). *Frontiers Big Data*
+* **Zheni Zeng**\*, Chaojun Xiao\*, Yuan Yao, Ruobing Xie, Zhiyuan Liu, Fen Lin, Leyu Lin and Maosong Sun. 2021. [Knowledge Transfer via Pre-training for Recommendation: A Review and Prospect](https://doi.org/10.3389/fdata.2021.602071). *Frontiers Big Data*
+
+* Mengdi Li, Cornelius Weber, Matthias Kerzel, Jae Hee Lee, **Zheni Zeng**, Zhiyuan Liu, Stefan Wermter. 2021. [Robotic Occlusion Reasoning for Efficient Object Existence Prediction](https://ieeexplore.ieee.org/abstract/document/9635947/). *IEEE IROS*
 
 ### 2020
 
@@ -31,7 +36,7 @@ My research interest currently includes Pre-training Language Model, Biomedical 
 - Reviewer: Neuralcomputing
 - TA: 
   - Natural Language Processing, 2021.
-  - Writing and Communication - Artificial Intelligence, 2020.
+  - Writing and Communication - Artificial Intelligence, 2020-2021.
 
 ## Awards
 
