@@ -10,7 +10,7 @@ redirect_from:
 
 I am an assistant professor at the [School of Intelligent Science and Technology, Nanjing University](https://is.nju.edu.cn/). From 2020 to 2025, I studied at [THUNLP](https://nlp.csai.tsinghua.edu.cn/), and obtained Ph.D. in Engineering from the [Deparment of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/), Tsinghua University.
 
-My research interest currently includes AI for Science and Large Language Models.
+My research interest currently includes AI for Science and Large Language Models. If you are interested in applying for *26 Fall Master* or *27 Fall PhD*, please contact me via e-mail. I look forward to exploring the application of large models in scientific scenarios with you.
 
 
 ## Main Publications
