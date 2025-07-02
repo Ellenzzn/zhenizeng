@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zheni Zeng / 曾哲妮"
 title_separator          : "-"
 name                     : &name "Zheni"
-description              : &description "Assistant Professor @ NJU"
+description              : &description "AP@NJU"
 url                      : "https://ellenzzn.github.io/zhenizeng/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Ellenzzn/zhenizeng"
@@ -31,14 +31,14 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
+  allowedFields          : ['name', 'email', 'url', 'message', 'googlescholar']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
   path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
+  requiredFields         : ['name', 'email', 'message', 'googlescholar']
   transforms:
     email                : "md5"
   generatedFields:
@@ -86,7 +86,7 @@ author:
   location         : "Suzhou, China"
   employer         :
   pubmed           : 
-  #googlescholar    : "https://scholar.google.com/citations?user=ZfehPhAAAAAJ&hl=en&oi=ao"
+  googlescholar    : "https://scholar.google.com/citations?user=CM3VSeQAAAAJ&hl=zh-CN&oi=ao"
   email            : "ellen.zeng@foxmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
