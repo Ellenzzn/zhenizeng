@@ -15,6 +15,8 @@ My research interest currently includes AI for Science and Large Language Models
 
 ## Main Publications
 ### 2025
+* **Zheni Zeng**\*, Yuxuan Chen\*, Shi Yu, Yukun Yan, Zhenghao Liu, Shuo Wang, Xu Han, Zhiyuan Liu, Maosong Sun. [KBAlign: Efficient Self Adaptation on Specific Knowledge Bases]([https://openreview.net/forum?id=8eZPbHoEwB](https://aclanthology.org/2025.findings-emnlp.728/)). *EMNLP 2025 Findings*
+* **Zheni Zeng**, Jiayi Chen, Huimin Chen, Yukun Yan, Yuxuan Chen, Zhenghao Liu, Zhiyuan Liu, Maosong Sun. [Persllm: A personified training approach for large language models]([https://arxiv.org/abs/2407.12393](https://aclanthology.org/2025.findings-emnlp.457/)). *EMNLP 2025 Findings*
 * Mingyan Wu, Zhenghao Liu, Yukun Yan, Xinze Li, Shi Yu, **Zheni Zeng**, Yu Gu, Ge Yu. [RankCoT: Refining Knowledge for Retrieval-Augmented Generation through Ranking Chain-of-Thoughts](https://arxiv.org/abs/2502.17888). *ACL 2025*
 * Shuliang Liu, Xinze Li, Zhenghao Liu, Yukun Yan, Cheng Yang, **Zheni Zeng**, Zhiyuan Liu, Maosong Sun, Ge Yu
 [Judge as a judge: Improving the evaluation of retrieval-augmented generation through the judge-consistency of large language models](https://arxiv.org/abs/2502.18817). *ACL 2025 Findings*
@@ -47,10 +49,7 @@ Synthetic and Systems Biotechnology*
 
 * Yanru Huang, Feiyu Zhu, **Zheni Zeng**, Xi Qiu, Yuan Shen and Jianan Wu. 2020. [SQE: a Self Quality Evaluation Metric for Parameters Optimization in Multi-Object Tracking](https://openaccess.thecvf.com/content_CVPR_2020/html/Huang_SQE_a_Self_Quality_Evaluation_Metric_for_Parameters_Optimization_in_CVPR_2020_paper.html). *CVPR 2020*
 
-## Preprints
 
-* **Zheni Zeng**, Jiayi Chen, Huimin Chen, Yukun Yan, Yuxuan Chen, Zhenghao Liu, Zhiyuan Liu, Maosong Sun. [Persllm: A personified training approach for large language models](https://arxiv.org/abs/2407.12393)
-* **Zheni Zeng**\*, Yuxuan Chen\*, Shi Yu, Yukun Yan, Zhenghao Liu, Shuo Wang, Xu Han, Zhiyuan Liu, Maosong Sun. [KBAlign: Efficient Self Adaptation on Specific Knowledge Bases](https://openreview.net/forum?id=8eZPbHoEwB)
 
 \* indicates equal contribution.
 
