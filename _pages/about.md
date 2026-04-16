@@ -10,10 +10,17 @@ redirect_from:
 
 I am an assistant professor at the [School of Intelligent Science and Technology, Nanjing University](https://is.nju.edu.cn/). From 2020 to 2025, I studied at [THUNLP](https://nlp.csai.tsinghua.edu.cn/), and obtained Ph.D. in Engineering from the [Deparment of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/), Tsinghua University.
 
-My research interest currently includes AI for Science and Large Language Models. If you are interested in applying for *26/27 Fall Master & PhD*, please contact me via e-mail. I look forward to exploring the application of large models in scientific scenarios with you.
+My research interest currently includes AI for Science and Large Language Models. If you are interested in applying for *27 Fall Master & PhD*, please contact me via e-mail. I look forward to exploring the application of large models in scientific scenarios with you.
 
 
 ## Main Publications
+### 2026
+* Haoran Liu, **Zheni Zeng**†, Yukun Yan, Yuxuan Chen, Yunduo Xiao. [DrugR: Optimizing Molecular Drugs through LLM-based Explicit Reasoning](https://arxiv.org/abs/2602.08213). *Arxiv Pre-print*
+* Maotian Ma\*, **Zheni Zeng**\*†, Zhenghao Liu, Yukun Yan†. [Scientific Knowledge-driven Decoding Constraints Improving the Reliability of LLMs](https://arxiv.org/abs/2604.06603). *Arxiv Pre-print*
+* Jihao Dai, Dingjun Wu, Yuxuan Chen, **Zheni Zeng**†, Yukun Yan†, Zhenghao Liu, Maosong Sun. [NaviRAG: Towards Active Knowledge Navigation for Retrieval-Augmented Generation](https://arxiv.org/abs/2604.12766). *Arxiv Pre-print*
+* Wenbin Zhang, **Zheni Zeng**, Zhiyuan Liu, Wanxiang Che. [ColdChat: Benchmarking Large Language Model Personalization using Limited Real-User Interaction History.](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-026-51716-6). *Frontiers of Computer Science*
+* Zhipeng Xu, Zhenghao Liu, Yukun Yan, Shuo Wang, Shi Yu, **Zheni Zeng**, Chaojun Xiao, Zhiyuan Liu, Ge Yu, Chenyan Xiong. [ThinkNote: Enhancing Knowledge Integration and Utilization of Large Language Models via Constructivist Cognition Modeling](https://aclanthology.org/2026.findings-eacl.12/). *EACL 2026*
+
 ### 2025
 * **Zheni Zeng**\*, Yuxuan Chen\*, Shi Yu, Yukun Yan, Zhenghao Liu, Shuo Wang, Xu Han, Zhiyuan Liu, Maosong Sun. [KBAlign: Efficient Self Adaptation on Specific Knowledge Bases]([https://openreview.net/forum?id=8eZPbHoEwB](https://aclanthology.org/2025.findings-emnlp.728/)). *EMNLP 2025 Findings*
 * **Zheni Zeng**, Jiayi Chen, Huimin Chen, Yukun Yan, Yuxuan Chen, Zhenghao Liu, Zhiyuan Liu, Maosong Sun. [Persllm: A personified training approach for large language models]([https://arxiv.org/abs/2407.12393](https://aclanthology.org/2025.findings-emnlp.457/)). *EMNLP 2025 Findings*
